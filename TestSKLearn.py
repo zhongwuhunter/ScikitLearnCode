@@ -252,11 +252,11 @@ if __name__ == "__main__":
     # 代码6：中文分词
     # print(cut_word("我爱北京天安门"))
     # 代码7：用TF-IDF的方法进行文本特征抽取
-    # tfidf_demo()
+    tfidf_demo()
     # 代码8：归一化
     # minmax_demo()
     # 代码9：标准化
-    stand_demo()
+    # stand_demo()
     # 代码10：低方差特征过滤
     # variance_demo()
     # 代码11：PCA降维
